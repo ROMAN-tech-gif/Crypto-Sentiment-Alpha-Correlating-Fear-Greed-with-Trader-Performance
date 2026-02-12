@@ -1,0 +1,2 @@
+# Crypto-Sentiment-Alpha-Correlating-Fear-Greed-with-Trader-Performance
+This repository provides a data-driven investigation into the relationship between market sentiment and trading behavior. By cross-referencing seven years of the Crypto Fear &amp; Greed Index with 211,000+ transaction logs, the project identifies how emotional extremes influence profitability, position sizing, and risk management.
